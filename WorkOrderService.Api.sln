@@ -5,6 +5,8 @@ VisualStudioVersion = 17.12.35707.178 d17.12
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkOrderService.Api", "WorkOrderService.Api\WorkOrderService.Api.csproj", "{475173FB-1512-4A19-BFB8-143335681572}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkOrderService.Tests", "WorkOrderService.Tests\WorkOrderService.Tests.csproj", "{F3B68513-E57C-4171-BF2E-79900180ABF3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{475173FB-1512-4A19-BFB8-143335681572}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{475173FB-1512-4A19-BFB8-143335681572}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{475173FB-1512-4A19-BFB8-143335681572}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3B68513-E57C-4171-BF2E-79900180ABF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3B68513-E57C-4171-BF2E-79900180ABF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3B68513-E57C-4171-BF2E-79900180ABF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3B68513-E57C-4171-BF2E-79900180ABF3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
